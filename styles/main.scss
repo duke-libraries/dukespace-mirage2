@@ -10,7 +10,7 @@
 // @import "classic_mirage_color_scheme/bootstrap_variables";
 
 // Use DUL variables extending Cosmo Bootswatch
-@import "bootstrap_color_scheme/_variables.scss";
+@import "classic_mirage_color_scheme/_variables.scss";
 
 // Bootstrap
 @function twbs-font-path($font-name) {
@@ -21,7 +21,7 @@
 @import "classic_mirage_color_scheme/dspace_variables";
 
 // Use Bootswatch theme Cosmo 3.3.0
-@import "bootstrap_color_scheme/_bootswatch.scss";
+@import "classic_mirage_color_scheme/_bootswatch.scss";
 
 // DSpace theme
 @import "classic_mirage_color_scheme/utils";
